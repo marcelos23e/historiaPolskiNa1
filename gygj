@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia Polski</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #004080;
+        }
+        h2 {
+            color: #0066cc;
+        }
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Historia Polski</h1>
+
+    <h2>Po śmierci Kazimierza Wielkiego w 1370 roku...</h2>
+    <p>
+        1. Po śmierci Kazimierza Wielkiego w 1370 roku, tron polski objął Ludwik Wielki.
+    </p>
+    <p>
+        2. Ludwik Wielki reprezentował dynastię Andegaweńską.
+    </p>
+    <p>
+        3. Po śmierci Ludwika Wielkiego, tron polski przypadł Jadwidze, najmłodszej córce monarchy, żyjącej w latach 1384-1386.
+    </p>
+    <p>
+        4. Umowa z 1385 roku między Polską a Litwą przyczyniła się do utworzenia unii personalnej, gdy Wielki Książę Litwy Jagiełło pojął za żonę Jadwigę.
+    </p>
+    <p>
+        5. Jagiełło był małżonkiem Jadwigi, a z ich związku wynikła unia Polsko-Litewska.
+    </p>
+    <p>
+        6. Bitwa pod Grunwaldem w 1410 roku była decydującym starciem, w którym armia polsko-litewska pokonała Zakon Krzyżacki, umacniając pozycję unii na arenie międzynarodowej.
+    </p>
+    <p>
+        7. Unia Polsko-Litewska miała znaczący wpływ na historię obu państw, umacniając ich pozycję i współpracę, zwłaszcza podczas konfliktów z Zakonem Krzyżackim oraz późniejszych wydarzeń historycznych.
+    </p>
+
+    <h2>Od Unii Polsko-Węgierskiej do Unii Polsko-Litewskiej: Epoka Przemian</h2>
+    <p>
+        W XIV wieku Polska znalazła się na rozdrożu historycznych zmian, rozpoczynając nowy etap swojej historii. Po wygaśnięciu dynastii Piastów w 1370 roku, tron polski objął Ludwik Wielki z dynastii Andegaweńskiej...
+        (treść refratu)
+    </p>
+
+    <h2>Skrut referatu</h2>
+    <p>
+        Referat "Od Unii Polsko-Węgierskiej do Unii Polsko-Litewskiej: Epoka Przemian" przedstawia kluczowe wydarzenia w XIV wieku, począwszy od objęcia tronu przez Ludwika Wielkiego z dynastii Andegaweńskiej...
+        (treść skrutynu referatu)
+    </p>
+
+</body>
+</html>
